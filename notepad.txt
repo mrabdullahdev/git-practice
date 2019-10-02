@@ -1,4 +1,8 @@
-Dawood Malhi
-Krona Emmanuel
-Abdullah Saleem
-Ghulam ghous
+#include<iostream>
+using namespace std;
+int main()
+{
+
+
+return 0;
+}
