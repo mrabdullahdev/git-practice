@@ -76,7 +76,7 @@ cin >> b;
 cout<<"Multiplication is >>  "<<a*b<<endl;
 break;
 default:
-	cout<<"oye rangbaazi na kr sai number add kr";
+	cout<<"oye rangbaazi na kr sai number add kr ";
 }
 	
 	return 0;
